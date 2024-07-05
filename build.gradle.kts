@@ -78,7 +78,7 @@ dependencies {
     compileOnly("tech.blastmc.holograms:HologramsAPI:1.0.0-SNAPSHOT")
     compileOnly("fr.moribus:ImageOnMap:4.3.1-EDEN")
     compileOnly("com.github.MilkBowl:VaultAPI:1.7")
-    compileOnly(">com.gmail.nossr50.mcMMO:mcMMO:2.1.176")
+    compileOnly(">com.gmail.nossr50.mcMMO:2.1.176")
     compileOnly("net.luckperms:api:5.4")
     compileOnly("com.sk89q.worldguard:worldguard-core:7.0.6-SNAPSHOT")
     compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0.6-SNAPSHOT")
