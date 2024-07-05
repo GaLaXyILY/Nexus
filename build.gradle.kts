@@ -77,8 +77,7 @@ dependencies {
     compileOnly("gg.projecteden.crates:api:1.0.6-SNAPSHOT")
     compileOnly("tech.blastmc.holograms:HologramsAPI:1.0.0-SNAPSHOT")
     compileOnly("fr.moribus:ImageOnMap:4.3.1-EDEN")
-    compileOnly("com.github.MilkBowl:VaultAPI:1.7") 
-    compileOnly(files("libs/MMO-api.jar"))
+    compileOnly("com.github.MilkBowl:VaultAPI:1.7")
     compileOnly("net.luckperms:api:5.4")
     compileOnly("com.sk89q.worldguard:worldguard-core:7.0.6-SNAPSHOT")
     compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0.6-SNAPSHOT")
@@ -112,6 +111,7 @@ dependencies {
     compileOnly(files("libs/BuycraftX.jar"))
     compileOnly(files("libs/GlowAPI.jar"))
     compileOnly(files("libs/nuvotifier-universal-2.3.4.jar"))
+    compileOnly(files("libs/mcMMO-2.1.176.jar"))
 
 //    implementation("com.ticxo:PlayerAnimator:R1.2.7")
 }
